@@ -36,10 +36,22 @@
 			<description>XMR (Monero) Miners</description>
 		</item>
 		<item>
+			<title>Monero Marketplace - @moneromarket</title>
+			<pudate>Sat, 29 Sept 2018 11:57:00</pudate>
+			<link>https://t.me/moneromarket</link>
+			<description>Welcome to the Monero Marketplace! Buy, sell, and trade all things with Monero. Please read the rules carefully.</description>
+		</item>
+		<item>
 			<title>Monero Jobs and Proposals - @MoneroJobs</title>
 			<pudate>Thu, 30 Aug 2018 13:20:00</pudate>
 			<link>https://t.me/MoneroJobs</link>
 			<description>Work for XMR ☭ 卐</description>
+		</item>
+		<item>
+			<title>Monero Work and Jobs - @MoneroWork</title>
+			<pudate>Sat, 29 Sept 2018 12:05:00</pudate>
+			<link>https://t.me/MoneroWork</link>
+			<description>Monero Work and Jobs</description>
 		</item>
 		<item>
 			<title>Monero Enthusiasts - @bitmonero</title>
@@ -48,10 +60,28 @@
 			<description>No spammers please. Monero is a secure, private, untraceable currency. It is open-source and freely available to all.</description>
 		</item>
 		<item>
+			<title>Monero Outreach - @monerooutreach</title>
+			<pudate>Thu, 15 Sep 2018 14:54:00</pudate>
+			<link>https://t.me/monerooutreach</link>
+			<description>We are a team of creators, writers, technicians, translators, and visionaries.</description>
+		</item>
+		<item>
+			<title>Monero Outreach Localization - @moutreachtranslations</title>
+			<pudate>Thu, 15 Sep 2018 14:56:00</pudate>
+			<link>https://t.me/outreachtranslations</link>
+			<description>We are a team of translators, reviewers, and individuals working for Monero(XMR).</description>
+		</item>
+		<item>
 			<title>Church of Monero - @churchofmonero</title>
 			<pudate>Thu, 30 Aug 2018 13:20:00</pudate>
 			<link>https://t.me/churchofmonero</link>
 			<description>In privacy and code we trust!</description>
+		</item>
+		<item>
+			<title>The Monero Games - @themonerogames</title>
+			<pudate>Thu, 15 Sep 2018 15:00:00</pudate>
+			<link>https://t.me/themonerogames</link>
+			<description>Welcome to the Monero Games!</description>
 		</item>
 		<item>
 			<title>Moneroro - @Moneroro</title>
@@ -102,16 +132,28 @@
 			<description>Официальный новостной канал русскоязычного сообщества Monero.</description>
 		</item>
 		<item>
-			<title>FLOOD [XMR.RU] - @FLOOD_XMR_RU</title>
-			<pudate>Thu, 30 Aug 2018 13:20:00</pudate>
-			<link>https://t.me/FLOOD_XMR_RU</link>
-			<description>Флудильня! Обсуждение говно-форков Monero, полит-срачи и другие виды веселья. Разрешено все, кроме рекламы (сигналисты / ICO-шники и прочий спам -->  🔨</description>
-		</item>
-		<item>
 			<title>Monero Brasil - @monerobrasil</title>
 			<pudate>Thu, 30 Aug 2018 13:20:00</pudate>
 			<link>https://t.me/monerobrasil</link>
 			<description>Monero Brasil</description>
+		</item>
+		<item>
+			<title>Monero Greece - @monerogr</title>
+			<pudate>Thu, 17 Sept 2018 10:10:00</pudate>
+			<link>https://t.me/monerogr</link>
+			<description>Monero Greece</description>
+		</item>
+		<item>
+			<title>Nederlandse Monero - @moneroNL</title>
+			<pudate>Tues, 03 Oct 2018 16:18:00</pudate>
+			<link>https://t.me/moneronl</link>
+			<description>Hou discussies in Nederlands of Engels bij uitzondering alsjeblieft.</description>
+		</item>
+		<item>
+			<title>Monero Service - @moneroservice</title>
+			<pudate>Sat, 29 Sept 2018 12:06:00</pudate>
+			<link>https://t.me/moneroservice</link>
+			<description>Welcome to Monero Service.</description>
 		</item>
 	</channel>
 </rss>
